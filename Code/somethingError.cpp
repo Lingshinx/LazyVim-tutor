@@ -191,7 +191,7 @@ void BrainFupiler::set() { p = array; }
 // 打开终端, 运行 ./BF, 这是我大一下学期时做的小玩意
 // 具体玩法的话要去B站找 BrainF**k 教程
 
-/*#include "BrainFupiler.h"*/
+#include "BrainFupiler.h"
 #include <cstdlib>
 #include <fstream>
 #include <string>
